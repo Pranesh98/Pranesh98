@@ -10,7 +10,7 @@ I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a hum
 
 - **Databases**: `MySQL`
 
-- **Competitive Programming**: `Codeforce`, `Beecrowd`, `Hackerrank`
+- **Competitive Programming**: `Hackerrank`, `Codeforce`, `Beecrowd`
     
 - **Algorithms** , **Data-structures**
 
