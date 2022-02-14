@@ -4,5 +4,16 @@
 
 I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a human being who is passionate about simplifying things through technology.
 
+### :gear: My skills include:
 
-[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=Saurav-Paul&show_icons=true)](https://github.com/Saurav-Paul/)
+- **Languages**: `JavaScript`, `C++`, `Java`, `C`
+
+- **Databases**: `MySQL`
+
+- **Competitive Programming**: `Codeforce`, `Beecrowd`, `Hackerrank`
+    
+- **Algorithms** , **Data-structures**
+
+- **Operating System**: `Windows`
+
+Thank you so much for visiting my tiny space.
