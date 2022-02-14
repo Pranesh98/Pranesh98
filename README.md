@@ -6,7 +6,7 @@ I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a hum
 
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`, `C++`, `Java`, `C`
+- **Languages**: `JavaScript`, `C++`, `Java`, `C`, `HTML`, `CSS`
 
 - **Databases**: `MySQL`
 
