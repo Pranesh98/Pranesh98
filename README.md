@@ -22,8 +22,7 @@ I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a hum
 
 [![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98)](https://github.com/Pranesh98/github-readme-stats)
 
-
+![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98&theme=dark&show_icons=true)
 
 Thank you so much for visiting my tiny space.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
