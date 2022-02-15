@@ -4,7 +4,7 @@
 
 I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a human being who is passionate about simplifying things through technology.
 
-[![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98)](https://github.com/Pranesh98/github-readme-stats)
+
 
 
 ### :gear: My skills include:
@@ -18,5 +18,10 @@ I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a hum
 - **Algorithms** , **Data-structures**
 
 - **Operating System**: `Windows`
+
+
+[![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98)](https://github.com/Pranesh98/github-readme-stats)
+
+
 
 Thank you so much for visiting my tiny space.
