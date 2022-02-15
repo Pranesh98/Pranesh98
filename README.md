@@ -6,7 +6,6 @@ I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a hum
 
 
 
-
 ### :gear: My skills include:
 
 - **Languages**: `JavaScript`, `HTML`, `CSS`. `Java`, `C++`, `C`.
@@ -19,8 +18,9 @@ I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a hum
 
 - **Operating System**: `Windows`
 
+[![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98)](https://github.com/Pranesh98/github-readme-stats)
 
-![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98&theme=dark&show_icons=true)
+[![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98&theme=dark&show_icons=true)](https://github.com/Pranesh98/github-readme-stats)
 
 Thank you so much for visiting my tiny space.
 
