@@ -25,3 +25,5 @@ I'm **Pranesh Chowdhury (https://www.linkedin.com/in/praneshchowdhury/)**, a hum
 
 
 Thank you so much for visiting my tiny space.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
