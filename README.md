@@ -20,7 +20,5 @@ I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying thi
 
 ![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh98&langs_count=8)](https://github.com/Pranesh98/github-readme-stats)
-
 Thank you so much for visiting my tiny space.
 
