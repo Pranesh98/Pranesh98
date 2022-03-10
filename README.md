@@ -1,8 +1,7 @@
 
-# Welcome to my Github
-## Hello World ! :wave:
+## Hi! There :wave:
 
-I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying things through technology.
+I'm **Pranesh Chowdhury**. I'm passionate about doing through technology. 
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@PraneshChowdhury&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/praneshchowdhury/)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@PraneshChowdhury&logo=facebook&style=flat&color=blue)](https://www.facebook.com/Pranesh01/)
@@ -25,6 +24,6 @@ I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying thi
 
 ### :hugs: Thank You!
 
-Thank you so much for visiting my tiny space.
+Thank you so much for visiting my github profile.
 
 ![](https://komarev.com/ghpvc/?username=Pranesh98)
