@@ -4,7 +4,7 @@
 
 I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying things through technology.
 
-https://www.facebook.com/dialog/share?app_id={app_id}&display={page_type}&href={url}&redirect_uri={https://www.facebook.com/Pranesh01/}
+https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/praneshchowdhury/}
 
 
 ### :gear: My skills include:
