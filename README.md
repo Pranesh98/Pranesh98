@@ -4,7 +4,7 @@
 
 I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying things through technology.
 
-https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/praneshchowdhury/}
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/praneshchowdhury/
 
 
 ### :gear: My skills include:
