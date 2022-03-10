@@ -4,7 +4,7 @@
 
 I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying things through technology.
 
-![](https://komarev.com/ghpvc/?username=Pranesh98)
+
 
 ### :gear: My skills include:
 
@@ -20,5 +20,6 @@ I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying thi
 
 ![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98&theme=dark&show_icons=true)
 
-Thank you so much for visiting my tiny space.
 
+Thank you so much for visiting my tiny space.
+![](https://komarev.com/ghpvc/?username=Pranesh98)
