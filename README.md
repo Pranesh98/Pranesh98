@@ -4,7 +4,8 @@
 
 I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying things through technology.
 
-https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/praneshchowdhury/
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@SauravPaul&logo=linkedin&style=flat&color=blue)](https://www.facebook.com/Pranesh01/)
+ [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@SauravPaul&logo=facebook&style=flat&color=blue)](https://www.facebook.com/sauravpaul.sunny)
 
 
 ### :gear: My skills include:
