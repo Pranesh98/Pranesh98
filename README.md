@@ -4,7 +4,7 @@
 
 I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying things through technology.
 
-
+![](https://komarev.com/ghpvc/?username=Pranesh98)
 
 ### :gear: My skills include:
 
