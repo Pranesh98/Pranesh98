@@ -4,8 +4,8 @@
 
 I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying things through technology.
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@PraneshChowdhury&logo=linkedin&style=flat&color=blue)](https://www.facebook.com/Pranesh01/)
- [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@SauravPaul&logo=facebook&style=flat&color=blue)](https://www.facebook.com/sauravpaul.sunny)
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@PraneshChowdhury&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/praneshchowdhury/)
+ [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@PraneshChowdhury&logo=facebook&style=flat&color=blue)](https://www.facebook.com/Pranesh01/)
 
 
 ### :gear: My skills include:
@@ -22,6 +22,8 @@ I'm **Pranesh Chowdhury**, a human being who is passionate about simplifying thi
 
 ![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98&theme=dark&show_icons=true)
 
+
+### :hugs: Thank You!
 
 Thank you so much for visiting my tiny space.
 
