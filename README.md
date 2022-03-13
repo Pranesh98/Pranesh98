@@ -1,5 +1,5 @@
 
-## Hi! There :wave:
+## Hi! :wave:
 
 I'm **Pranesh Chowdhury**. I'm passionate about doing through technology. 
 
